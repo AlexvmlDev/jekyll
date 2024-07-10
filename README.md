@@ -3,9 +3,11 @@ First Jekyll site from scratch.
 ## To do ☑️
 1. Setup
     - [x] [Installation](https://jekyllrb.com/docs/step-by-step/01-setup/#installation)
-    - [ ] [Create a site](https://jekyllrb.com/docs/step-by-step/01-setup/#create-a-site)
-    - [ ] [Build](https://jekyllrb.com/docs/step-by-step/01-setup/#create-a-site) 
+    - [x] [Create a site](https://jekyllrb.com/docs/step-by-step/01-setup/#create-a-site)
+    - [x] [Build](https://jekyllrb.com/docs/step-by-step/01-setup/#create-a-site) 
 2. Liquid
+    - [ ] Learn about: [Objects](https://jekyllrb.com/docs/step-by-step/02-liquid/#objects), [Tags](https://jekyllrb.com/docs/liquid/tags/) and [Filters](https://jekyllrb.com/docs/liquid/filters/)
+    - [ ] Use Liquid
 3. Front Matter
 4. Layouts
 5. Includes
