@@ -21,6 +21,7 @@ First Jekyll site from scratch.
    - [x] Include [tag](https://jekyllrb.com/docs/step-by-step/05-includes/#include-tag) and [usage](https://jekyllrb.com/docs/step-by-step/05-includes/#include-usage)
    - [x] Hightlight the current page in navigation
 6. Data Files
+   - [x] Learn [Data Files](https://jekyllrb.com/docs/datafiles/) [Usage](https://jekyllrb.com/docs/step-by-step/06-data-files/#data-file-usage)
 7. Assets
 8. Blogging
 9.  Collections
