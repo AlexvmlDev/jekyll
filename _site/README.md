@@ -17,6 +17,9 @@ First Jekyll site from scratch.
    - [x] Use one
    - [x] Build the About page w/ a layout template
 5. Includes
+   - [x] Learn about [Includes](https://jekyllrb.com/docs/includes/) 
+   - [x] Include [tag](https://jekyllrb.com/docs/step-by-step/05-includes/#include-tag) and [usage](https://jekyllrb.com/docs/step-by-step/05-includes/#include-usage)
+   - [x] Hightlight the current page in navigation
 6. Data Files
 7. Assets
 8. Blogging
