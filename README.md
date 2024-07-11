@@ -12,6 +12,10 @@ First Jekyll site from scratch.
    - [x] [Use Front Matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
    - [x] [What is Front Matter](https://jekyllrb.com/docs/front-matter/)
 4. Layouts
+   - [x] Learn about [Layouts](https://jekyllrb.com/docs/layouts)
+   - [x] Create a [layout](https://jekyllrb.com/docs/step-by-step/04-layouts/)
+   - [x] Use one
+   - [x] Build the About page w/ a layout template
 5. Includes
 6. Data Files
 7. Assets
