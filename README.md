@@ -9,6 +9,8 @@ First Jekyll site from scratch.
     - [x] Learn about: [Objects](https://jekyllrb.com/docs/step-by-step/02-liquid/#objects), [Tags](https://jekyllrb.com/docs/liquid/tags/) and [Filters](https://jekyllrb.com/docs/liquid/filters/)
     - [x] Use Liquid
 3. Front Matter
+   - [x] [Use Front Matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
+   - [x] [What is Front Matter](https://jekyllrb.com/docs/front-matter/)
 4. Layouts
 5. Includes
 6. Data Files
