@@ -23,6 +23,9 @@ First Jekyll site from scratch.
 6. Data Files
    - [x] Learn [Data Files](https://jekyllrb.com/docs/datafiles/) [Usage](https://jekyllrb.com/docs/step-by-step/06-data-files/#data-file-usage)
 7. Assets
+   - [x] Learn about [Assets](https://jekyllrb.com/docs/assets/);
+   - [x] The [Structure](https://jekyllrb.com/docs/step-by-step/07-assets/) of this;
+   - [x] [How to reference the stylesheet in templates (_layouts)](https://jekyllrb.com/docs/step-by-step/07-assets/#sass)
 8. Blogging
 9.  Collections
 10. Deployment
