@@ -27,5 +27,9 @@ First Jekyll site from scratch.
    - [x] The [Structure](https://jekyllrb.com/docs/step-by-step/07-assets/) of this;
    - [x] [How to reference the stylesheet in templates (_layouts)](https://jekyllrb.com/docs/step-by-step/07-assets/#sass)
 8. Blogging
+   - [x] Learn about Blogging w/ [posts](https://jekyllrb.com/docs/posts/)
+   - [x] Create my first [post](https://jekyllrb.com/docs/step-by-step/08-blogging/#posts);
+   - [x] Create a [layout template for posts](https://jekyllrb.com/docs/step-by-step/08-blogging/#layout)
+   - [x] List the posts in the [blog page](https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts)
 9.  Collections
 10. Deployment
