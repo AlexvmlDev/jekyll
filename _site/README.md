@@ -32,4 +32,10 @@ First Jekyll site from scratch.
    - [x] Create a [layout template for posts](https://jekyllrb.com/docs/step-by-step/08-blogging/#layout)
    - [x] List the posts in the [blog page](https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts)
 9.  Collections
+    - [x] Learn how to use [Collections](https://jekyllrb.com/docs/step-by-step/09-collections/)
+    - [x] Set up a collection, [add authors](https://jekyllrb.com/docs/step-by-step/09-collections/#add-authors) 
+    - [x] Create a page for Authors ([Staff page](https://jekyllrb.com/docs/step-by-step/09-collections/#staff-page)), output this;
+    - [x] Learn how to use [Front Matter defaults](https://jekyllrb.com/docs/step-by-step/09-collections/#front-matter-defaults)
+    - [x] How to [list author's post](https://jekyllrb.com/docs/step-by-step/09-collections/#list-authors-posts) iterate them
+    - [x] [Link to authors page](https://jekyllrb.com/docs/step-by-step/09-collections/#link-to-authors-page) and vice-versa
 10. Deployment
