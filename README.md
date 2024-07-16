@@ -39,3 +39,8 @@ First Jekyll site from scratch.
     - [x] How to [list author's post](https://jekyllrb.com/docs/step-by-step/09-collections/#list-authors-posts) iterate them
     - [x] [Link to authors page](https://jekyllrb.com/docs/step-by-step/09-collections/#link-to-authors-page) and vice-versa
 10. Deployment
+    - [x] Learning how to leave [site ready for production](https://jekyllrb.com/docs/step-by-step/10-deployment/)
+    - [x] Consolidating the knowledge about [Gemfile](https://jekyllrb.com/docs/step-by-step/10-deployment/#gemfile)
+    - [x] Learn how to use jekyll [plugins](https://jekyllrb.com/docs/step-by-step/10-deployment/#plugins): sitemap, feed and seo tag
+    - [x] Learned about [enviroment](https://jekyllrb.com/docs/step-by-step/10-deployment/#environments) variable for production (JEKYLL_ENV)
+    - [x] How to run a [production build](https://jekyllrb.com/docs/step-by-step/10-deployment/#deployment)
